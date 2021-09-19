@@ -1,0 +1,1 @@
+index.php does not have the sections included, just open up pages folder, and run roothome.php for main page.
